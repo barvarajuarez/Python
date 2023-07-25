@@ -10,3 +10,4 @@ f"{base}"
 print(f"La base es: {base} [u], la altura es: {altura} [u]")
 print(f"Area: {Area} [u^2]")
 print(f"Perimetro: {Perimetro} [u]")
+
