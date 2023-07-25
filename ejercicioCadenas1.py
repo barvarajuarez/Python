@@ -1,5 +1,5 @@
-edad = int (input("Escribe tu edad: "))
 nombre = str (input("Escribe tu nombre completo: "))
+edad = int (input("Escribe tu edad: "))
 estatura = float (input("Escribe tu estatura en metros: "))
 
 print("Tu nombre es: ", nombre)
