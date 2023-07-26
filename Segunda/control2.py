@@ -1,2 +1,6 @@
-# Realiza un programa que imprima numeros del 1 al 10 de manera 
-# descendente 
+a = 10
+while a>0:
+    print(a)
+    a=a-1
+print("Fin")
+
